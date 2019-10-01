@@ -10,8 +10,8 @@ namespace ex_git_dupla
     {
         static void Main(string[] args)
         {
-            int x = 0, y;
-            for (x = 1; x <= 100; x++)
+            int x = 0;
+            for (x = 1; x <= 200; x++)
             {
                 if (x % 10 == 0)
                 {
@@ -21,6 +21,7 @@ namespace ex_git_dupla
                 {
                     Console.WriteLine(x);
                 }
+
             }
             Console.ReadKey();
         }
