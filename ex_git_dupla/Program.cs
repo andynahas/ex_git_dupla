@@ -21,6 +21,7 @@ namespace ex_git_dupla
                 {
                     Console.WriteLine(x);
                 }
+                Console.WriteLine("Segundo git Aluno A");
 
             }
             Console.ReadKey();
