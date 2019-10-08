@@ -11,17 +11,17 @@ namespace ex_git_dupla
         static void Main(string[] args)
         {
             int x = 0;
-            for (x = 1; x <= 200; x++)
+            for (x = 1; x <= 190; x++)
             {
                 if (x % 20 == 1)
                 {
-                    Console.WriteLine(x + "Contagem do 52 até 200");
+                    Console.WriteLine(x + "Contagem do 92 até 190");
                 }
                 else
                 {
                     Console.WriteLine(x);
                 }
-                Console.WriteLine("Terceiro git Aluno B");
+                Console.WriteLine("Quarto git Aluno B");
                 Console.WriteLine("Quarto git aluno A");
 
             }
