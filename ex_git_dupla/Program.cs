@@ -21,9 +21,9 @@ namespace ex_git_dupla
                 {
                     Console.WriteLine(x);
                 }
-                Console.WriteLine("Quarto git Aluno B");
+                Console.WriteLine("Ultimo git Aluno B");
                 Console.WriteLine("Ultimo git aluno A");
-
+                Console.Write("Finish Him");
 
             }
             Console.ReadKey();
