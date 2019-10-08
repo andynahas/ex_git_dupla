@@ -22,7 +22,8 @@ namespace ex_git_dupla
                     Console.WriteLine(x);
                 }
                 Console.WriteLine("Quarto git Aluno B");
-                Console.WriteLine("Quarto git aluno A");
+                Console.WriteLine("Ultimo git aluno A");
+
 
             }
             Console.ReadKey();
