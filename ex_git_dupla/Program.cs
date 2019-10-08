@@ -13,15 +13,15 @@ namespace ex_git_dupla
             int x = 0;
             for (x = 1; x <= 200; x++)
             {
-                if (x % 10 == 0)
+                if (x % 20 == 1)
                 {
-                    Console.WriteLine(x + " MÚLTIPLO DE 10");
+                    Console.WriteLine(x + "Contagem do 52 até 200");
                 }
                 else
                 {
                     Console.WriteLine(x);
                 }
-                Console.WriteLine("Segundo git Aluno A");
+                Console.WriteLine("Terceiro git Aluno B");
 
             }
             Console.ReadKey();
